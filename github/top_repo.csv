@@ -1,0 +1,182 @@
+name,link,summary
+3D,https://www.github.com/topics/3d,3Dmodelingistheprocessofvirtuallydevelopingthesurfaceandstructureofa3Dobject.
+Ajax,https://www.github.com/topics/ajax,Ajaxisatechniqueforcreatinginteractivewebapplications.
+Algorithm,https://www.github.com/topics/algorithm,Algorithmsareself-containedsequencesthatcarryoutavarietyoftasks.
+Amp,https://www.github.com/topics/amphp,Ampisanon-blockingconcurrencylibraryforPHP.
+Android,https://www.github.com/topics/android,AndroidisanoperatingsystembuiltbyGoogledesignedformobiledevices.
+Angular,https://www.github.com/topics/angular,Angularisanopensourcewebapplicationplatform.
+Ansible,https://www.github.com/topics/ansible,Ansibleisasimpleandpowerfulautomationengine.
+API,https://www.github.com/topics/api,AnAPI(ApplicationProgrammingInterface)isacollectionofprotocolsandsubroutinesforbuildingsoftware.
+Arduino,https://www.github.com/topics/arduino,Arduinoisanopensourcehardwareandsoftwarecompanyandmakercommunity.
+ASP.NET,https://www.github.com/topics/aspnet,ASP.NETisawebframeworkforbuildingmodernwebappsandservices.
+Atom,https://www.github.com/topics/atom,Atomisaopensourcetexteditorbuiltwithwebtechnologies.
+Awesome Lists,https://www.github.com/topics/awesome,Anawesomelistisalistofawesomethingscuratedbythecommunity.
+Amazon Web Services,https://www.github.com/topics/aws,AmazonWebServicesprovideson-demandcloudcomputingplatformsonasubscriptionbasis.
+Azure,https://www.github.com/topics/azure,AzureisacloudcomputingservicecreatedbyMicrosoft.
+Babel,https://www.github.com/topics/babel,"BabelisacompilerforwritingnextgenerationJavaScript,today."
+Bash,https://www.github.com/topics/bash,BashisashellandcommandlanguageinterpreterfortheGNUoperatingsystem.
+Bitcoin,https://www.github.com/topics/bitcoin,BitcoinisacryptocurrencydevelopedbySatoshiNakamoto.
+Bootstrap,https://www.github.com/topics/bootstrap,"BootstrapisanHTML,CSS,andJavaScriptframework."
+Bot,https://www.github.com/topics/bot,AbotisanapplicationthatrunsautomatedtasksovertheInternet.
+C,https://www.github.com/topics/c,Cisageneralpurposeprogramminglanguagethatfirstappearedin1972.
+Chrome,https://www.github.com/topics/chrome,ChromeisawebbrowserfromthetechcompanyGoogle.
+Chrome extension,https://www.github.com/topics/chrome-extension,GoogleChromeExtensionsareadd-onsthatallowuserstocustomizetheirChromewebbrowser.
+Command line interface,https://www.github.com/topics/cli,"ACLI,orcommand-lineinterface,isaconsolethathelpsusersissuecommandstoaprogram."
+Clojure,https://www.github.com/topics/clojure,"Clojureisadynamic,general-purposeprogramminglanguage."
+Code quality,https://www.github.com/topics/code-quality,"Automateyourcodereviewwithstyle,quality,security,andtest‑coveragecheckswhenyouneedthem."
+Code review,https://www.github.com/topics/code-review,Ensureyourcodemeetsqualitystandardsandshipwithconfidence.
+Compiler,https://www.github.com/topics/compiler,Compilersaresoftwarethattranslatehigher-levelprogramminglanguagestolower-levellanguages(e.g.machinecode).
+Continuous integration,https://www.github.com/topics/continuous-integration,"Automaticallybuildandtestyourcodeasyoupushitupstream,preventingbugsfrombeingdeployedtoproduction."
+COVID-19,https://www.github.com/topics/covid-19,Thecoronavirusdisease2019(COVID-19)isaninfectiousdiseasecausedbySARS-CoV-2.
+C++,https://www.github.com/topics/cpp,C++isageneralpurposeandobject-orientedprogramminglanguage.
+Cryptocurrency,https://www.github.com/topics/cryptocurrency,Acryptocurrencyisadigitalcurrencythatusescryptography.
+Crystal,https://www.github.com/topics/crystal,"Crystalisaself-hosted,generalpurposeprogramminglanguage."
+C#,https://www.github.com/topics/csharp,"C#(""Csharp"")isanobject-orientedandtype-safeprogramminglanguage."
+CSS,https://www.github.com/topics/css,CascadingStyleSheets(CSS)isalanguageusedmostoftentostyleandimproveupontheappearanceofviews.
+Data structures,https://www.github.com/topics/data-structures,Datastructuresareawayoforganizingandstoringdata.
+Data visualization,https://www.github.com/topics/data-visualization,Datavisualizationisthegraphicrepresentationofdataandtrends.
+Database,https://www.github.com/topics/database,"Adatabaseisastructuredsetofdataheldinacomputer,usuallyaserver."
+Deep learning,https://www.github.com/topics/deep-learning,DeepLearningisanartificialneuralnetworkcomposedofmanylayers.
+Dependency management,https://www.github.com/topics/dependency-management,Secureandmanageyourthird-partydependencies.
+Deployment,https://www.github.com/topics/deployment,Streamlineyourcodedeploymentsoyoucanfocusonyourproduct.
+Django,https://www.github.com/topics/django,DjangoisawebapplicationframeworkforPython.
+Docker,https://www.github.com/topics/docker,Dockerisaplatformbuiltfordeveloperstobuildandrunapplications.
+Documentation,https://www.github.com/topics/documentation,Documentationisasetofinformationthatdescribesaproducttoitsusers.
+.NET,https://www.github.com/topics/dotnet,".NETisafree,cross-platform,opensourcedeveloperplatform."
+Electron,https://www.github.com/topics/electron,Electronisaframeworkforbuildingcross-platformdesktopapplicationswithwebtechnology.
+Elixir,https://www.github.com/topics/elixir,"Elixirisadynamic,functionallanguagedesignedforbuildingscalableandmaintainableapplications."
+Emacs,https://www.github.com/topics/emacs,"Emacsisanextensible,customizable,freetexteditorandcomputingenvironment."
+Ember,https://www.github.com/topics/ember,Emberisaframeworkforcreatingwebapplications.
+Emoji,https://www.github.com/topics/emoji,"Emojisaregraphicsymbolsthatrepresentanemotion,object,orconcept."
+Emulator,https://www.github.com/topics/emulator,Anemulatorisanyhardwareorsoftwarethatallowsonecomputertobehavelikeanother.
+ESLint,https://www.github.com/topics/eslint,ThepluggablelintingutilityforJavaScriptandJSX.
+Ethereum,https://www.github.com/topics/ethereum,Ethereumisadistributedpublicblockchainnetwork.
+Express,https://www.github.com/topics/express,ExpressisaminimalNode.jsframeworkforwebandmobileapplications.
+Firebase,https://www.github.com/topics/firebase,Firebaseisamobileappdevelopmentplatformthatprovidesdataanalysisanddatabasewebservicesfordevelopers.
+Firefox,https://www.github.com/topics/firefox,FirefoxisanopensourcewebbrowserfromMozilla.
+Flask,https://www.github.com/topics/flask,FlaskisawebframeworkforPythonbasedontheWerkzeugtoolkit.
+Font,https://www.github.com/topics/font,Afontisaparticularstyleoftypefacefortext.
+Framework,https://www.github.com/topics/framework,Aframeworkisareusablesetoflibrariesorclassesinsoftware.
+Front end,https://www.github.com/topics/frontend,Frontendistheprogrammingandlayoutthatpeopleseeandinteractwith.
+Game engine,https://www.github.com/topics/game-engine,Agameengineisasoftwareframeworkusedtodevelopandcreatevideogames.
+Git,https://www.github.com/topics/git,Gitisthemostwidelyusedversioncontrolsystem.
+GitHub API,https://www.github.com/topics/github-api,TheGitHubAPIallowsyoutobuildapplicationsthatintegratewithGitHub.
+Go,https://www.github.com/topics/go,GoisaprogramminglanguagebuilttoresembleasimplifiedversionoftheCprogramminglanguage.
+Google,https://www.github.com/topics/google,GoogleLLCisanAmericanmultinationaltechnologycompanythatspecializesinInternet-relatedservicesandproducts.
+Gradle,https://www.github.com/topics/gradle,"Gradleisanopen-sourcebuildtoolthathelpsteamsbuild,automateanddeliverbettersoftware,faster."
+GraphQL,https://www.github.com/topics/graphql,GraphQLisaquerylanguageforAPIsandaruntimeforfulfillingthosequerieswithyourexistingdata.
+Gulp,https://www.github.com/topics/gulp,Gulpisatoolkitforautomatingandstreamliningwebdevelopment.
+Hacktoberfest,https://www.github.com/topics/hacktoberfest,Hacktoberfestisamonth-longcelebrationofopensourcesoftware.
+Haskell,https://www.github.com/topics/haskell,"Haskellisafunctionalprogramminglanguagewithnon-strictsemantics,andstrongstatictyping."
+Homebrew,https://www.github.com/topics/homebrew,HomebrewisapackagemanagerformacOS.
+Homebridge,https://www.github.com/topics/homebridge,"HomebridgeisautilityfortyingsmarthomedevicestogetherintoApple’sHomeKitframework,controlledbySiri."
+HTML,https://www.github.com/topics/html,HTMListhefundamentalmarkuplanguageforwebpages.
+HTTP,https://www.github.com/topics/http,HTTP(HypertextTransferProtocol)isthestandardforcommunicationacrosstheweb.
+Icon font,https://www.github.com/topics/icon-font,Iconfonts containglyphsandsymbolsinplaceoftextualletters.
+iOS,https://www.github.com/topics/ios,iOSistheoperatingsystemforApple'smobileproducts.
+IPFS,https://www.github.com/topics/ipfs,IPFSisapeer-to-peerprotocolforcontent-addressedsharingofdataviaadistributedfilesystem.
+Java,https://www.github.com/topics/java,"Javaisanobject-orientedprogramminglanguageusedmainlyforweb,desktop,embeddeddevicesandmobileapplications."
+JavaScript,https://www.github.com/topics/javascript,JavaScript(JS)isalightweightinterpretedprogramminglanguagewithfirst-classfunctions.
+Jekyll,https://www.github.com/topics/jekyll,"Jekyllisasimple,blog-awarestaticsitegenerator."
+jQuery,https://www.github.com/topics/jquery,jQueryisalightweightlibrarythatsimplifiesprogrammingwithJavaScript.
+JSON,https://www.github.com/topics/json,"JSON(JavaScriptObjectNotation)allowsforeasyinterchangeofdata,oftenbetweenaprogramandadatabase."
+The Julia Language,https://www.github.com/topics/julia,"Juliaisahigh-level,high-performancedynamicprogramminglanguagefornumericalcomputing."
+Jupyter Notebook,https://www.github.com/topics/jupyter-notebook,"JupyterNotebooksaredocumentsthatcontainlivecode,visualizations,andnarrativetext."
+Koa,https://www.github.com/topics/koa,KoaisanexpressivemiddlewareframeworkforNode.jsserversthatusesES2017asyncfunctions.
+Kotlin,https://www.github.com/topics/kotlin,Kotlinisastaticallytypedprogramminglanguageformultiplatformapplications.
+Kubernetes,https://www.github.com/topics/kubernetes,"Kubernetesisanopensourcesystemforautomatingdeployment,scaling,andmanagementofcontainerizedapplications."
+Laravel,https://www.github.com/topics/laravel,ThePHPFrameworkforWebArtisans.
+LaTeX,https://www.github.com/topics/latex,LaTeXisadocumentpreparationsystem.
+Library,https://www.github.com/topics/library,"Alibraryisacollectionofresources,oftencreatedtomakeprogrammingatasksimpler."
+Linux,https://www.github.com/topics/linux,Linuxisanopensourcekernel.
+Localization,https://www.github.com/topics/localization,Translationofasoftwareinterfaceandmessagestoanotherlanguageplustoworkwithlocalcultures.
+Lua,https://www.github.com/topics/lua,"Luaisalightweight,embeddablescriptinglanguage."
+Machine learning,https://www.github.com/topics/machine-learning,Machinelearningisawayofmodelingandinterpretingdatathatallowsapieceofsoftwaretorespondintelligently.
+macOS,https://www.github.com/topics/macos,macOSisApple'soperatingsystem.
+Markdown,https://www.github.com/topics/markdown,Markdownisalightweightmarkuplanguage.
+Mastodon,https://www.github.com/topics/mastodon,"Mastodonisafree,decentralized,open-sourcemicrobloggingnetwork."
+Material design,https://www.github.com/topics/material-design,MaterialdesignisaunifiedsystemoftheoryandtoolsforcreatingdigitalexperiencesdevelopedbyGoogle.
+MATLAB,https://www.github.com/topics/matlab,MATLABisaprogrammingplatformfornumericalcomputationandvisualization.
+Maven,https://www.github.com/topics/maven,MavenisabuildautomationtoolusedprimarilyforJavaprojects.
+Minecraft,https://www.github.com/topics/minecraft,Minecraftisasandboxvideogame.
+Mobile,https://www.github.com/topics/mobile,"Mobileapps,mobileOS,mobiledatabases,&mobiletestingframeworks."
+Monero,https://www.github.com/topics/monero,"Moneroisaprivate,fungible,opensource,decentralizedcryptocurrency."
+MongoDB,https://www.github.com/topics/mongodb,MongoDBisanopensourceNoSQLdocument-orienteddatabase.
+Mongoose,https://www.github.com/topics/mongoose,MongooseisaMongoDBobjectmodelingtooldesignedtoworkinanasynchronousenvironment.
+Monitoring,https://www.github.com/topics/monitoring,"Monitortheimpactofyourcodechanges.Measureperformance,trackerrors,andanalyzeyourapplication."
+MvvmCross,https://www.github.com/topics/mvvmcross,"The.NETMVVMframeworkforcross-platformsolutions,includingXamarin.iOS,Xamarin.Android,Windows,andMac."
+MySQL,https://www.github.com/topics/mysql,MySQLisanopensourcerelationaldatabasemanagementsystem.
+NativeScript,https://www.github.com/topics/nativescript,NativeScriptisaJavaScript-nativemobileframework.
+Nim,https://www.github.com/topics/nim,"Nimisastaticallytyped,compiled,garbage-collectedsystemsprogramminglanguage."
+Natural language processing,https://www.github.com/topics/nlp,Naturallanguageprocessing(NLP)isthestudyofhowcomputersandhumansinteract.
+Node.js,https://www.github.com/topics/nodejs,Node.jsisatoolforexecutingJavaScriptinavarietyofenvironments.
+NoSQL,https://www.github.com/topics/nosql,ANoSQLdatabasereferstoadatabasewhosestorageformatismodeleddifferentlyfromrelationaldatabases.
+npm,https://www.github.com/topics/npm,npmisapackagemanagerforJavaScriptincludedwithNode.js.
+Objective-C,https://www.github.com/topics/objective-c,"Objective-Cisgeneralpurpose,object-orientedprogramminglanguageusedformacOSandiOSoperatingsystems."
+OpenGL,https://www.github.com/topics/opengl,OpenGLisasoftwareinterfacethatallowsaprogrammertocommunicatewithgraphicshardware.
+Operating system,https://www.github.com/topics/operating-system,Anoperatingsystemisaprogramthatmanagesacomputer'sprogramsandapplications.
+P2P,https://www.github.com/topics/p2p,Peer-to-Peerapplicationsaredecentralizedordistributed.
+Package manager,https://www.github.com/topics/package-manager,Apackagemanagerisasetoftoolsthatautomatesandmanagescomputersoftware.
+Parsing,https://www.github.com/topics/parsing,Parsingistheprocessofanalyzingastringofsymbolsconformingtotherulesofaformalgrammar.
+Perl,https://www.github.com/topics/perl,Perlisahighlycapableandfeature-richprogramminglanguage.
+Phaser,https://www.github.com/topics/phaser,"Phaserisafun,free,andfast2DgameframeworkformakingHTML5gamesfordesktopandmobilewebbrowsers."
+PHP,https://www.github.com/topics/php,PHPisapopulargeneral-purposescriptinglanguagethatworksparticularlywellforserver-sidewebdevelopment.
+PICO-8,https://www.github.com/topics/pico-8,"PICO-8isafantasyconsoleformaking,sharingandplayingtinygamesandothercomputerprogramsinLua."
+Pixel Art,https://www.github.com/topics/pixel-art,Pixelartisaformofdigitalartwhereimagesarecreatedandeditedatthepixellevel.
+PostgreSQL,https://www.github.com/topics/postgresql,PostgreSQLisanopensourcedatabasesystem.
+Project management,https://www.github.com/topics/project-management,Projectmanagementisaboutbuildingscopeandexecutingontheproject'sgoals.
+Publishing,https://www.github.com/topics/publishing,Publishingisthedisseminationofmakinginformationavailabletothegeneralpublicthroughvariousmediums.
+PWA,https://www.github.com/topics/pwa,ProgressiveWebAppsaretraditionalwebsitesthatareenhancedwithnativelikefeatures.
+Python,https://www.github.com/topics/python,Pythonisadynamicallytypedprogramminglanguage.
+Qt,https://www.github.com/topics/qt,"Qt,pronounced""cute"",isacross-platformapplicationdevelopmentframework."
+R,https://www.github.com/topics/r,Risafreeprogramminglanguageandsoftwareenvironmentforstatisticalcomputingandgraphics.
+Rails,https://www.github.com/topics/rails,RubyonRails(Rails)isawebapplicationframeworkwritteninRuby.
+Raspberry Pi,https://www.github.com/topics/raspberry-pi,TheRaspberryPiisapopularsingle-boardcomputer.
+Ratchet,https://www.github.com/topics/ratchet,RatchetisasetoflibrariestohandleWebSocketsasynchronouslyinPHP.
+React,https://www.github.com/topics/react,ReactisanopensourceJavaScriptlibraryusedfordesigninguserinterfaces.
+React Native,https://www.github.com/topics/react-native,ReactNativeisaJavaScriptmobileframeworkdevelopedbyFacebook.
+ReactiveUI,https://www.github.com/topics/reactiveui,"ReactiveUIisacomposable,cross-platformmodel-view-viewmodelframeworkforall.NETplatforms."
+Redux,https://www.github.com/topics/redux,ReduxisapredictablestatecontainerforJavaScriptapps.
+REST API,https://www.github.com/topics/rest-api,Arepresentationalstatetransfer(REST)APIisawaytoprovidecompatibilitybetweencomputersystemsontheinternet.
+Ruby,https://www.github.com/topics/ruby,Rubyisascriptinglanguagedesignedforsimplifiedobject-orientedprogramming.
+Rust,https://www.github.com/topics/rust,RustisasystemsprogramminglanguagecreatedbyMozilla.
+Sass,https://www.github.com/topics/sass,SassisastableextensiontoclassicCSS.
+Scala,https://www.github.com/topics/scala,Scalaisanobject-orientedprogramminglanguage.
+scikit-learn,https://www.github.com/topics/scikit-learn,scikit-learnisaPythonmoduleformachinelearning.
+Software-defined networking,https://www.github.com/topics/sdn,"Software-definednetworking(SDN)isanarchitectureforprogrammable,centrallymanagednetworks."
+Security,https://www.github.com/topics/security,"Cybersecurityistheprotectionofcomputerhardware,software,anddatafromtheft,damage,andmaliciousintent."
+Server,https://www.github.com/topics/server,Aserverisaprogrammadetoprocessrequestsanddeliverdatatoclients.
+Serverless,https://www.github.com/topics/serverless,Serverlessarchitecturereferstoappsthatdependonthird-partyservicesorcustomcode.
+Shell,https://www.github.com/topics/shell,"Ashellisacommand-linetool,designedtoberunbytheUnixshell."
+Sketch,https://www.github.com/topics/sketch,"SketchisavectorgraphicseditorforApple'smacOS,usedprimarilyforuserinterfaceandicondesign."
+SpaceVim,https://www.github.com/topics/spacevim,SpaceVimisacommunity-drivendistributionofthevimeditorthatallowsmanagingyourpluginsinlayers.
+Spring Boot,https://www.github.com/topics/spring-boot,SpringBootisacodingandconfigurationmodelforJavaapplications.
+SQL,https://www.github.com/topics/sql,"SQLisastandardlanguageforstoring,retrievingandmanipulatingdataindatabases."
+Storybook,https://www.github.com/topics/storybook,StorybookisaUIdevelopmentenvironmentforyourUIcomponents.
+Support,https://www.github.com/topics/support,Getyourteamandcustomersthehelptheyneed.
+Swift,https://www.github.com/topics/swift,"Swiftisamodernprogramminglanguagefocusedonsafety,performance,andexpressivity."
+Symfony,https://www.github.com/topics/symfony,SymfonyisasetofreusablePHPcomponentsandawebframework.
+Telegram,https://www.github.com/topics/telegram,"Telegramisanon-profit,cloud-basedinstantmessagingservice."
+Tensorflow,https://www.github.com/topics/tensorflow,TensorFlowisanopensourcesoftwarelibraryfornumericalcomputation.
+Terminal,https://www.github.com/topics/terminal,Theterminalisaninterfaceinwhichyoucantypeandexecutetext-basedcommands.
+Terraform,https://www.github.com/topics/terraform,"Aninfrastructure-as-codetoolforbuilding,changing,andversioninginfrastructuresafelyandefficiently."
+Testing,https://www.github.com/topics/testing,Eliminatebugsandshipwithmoreconfidencebyaddingthesetoolstoyourworkflow.
+Twitter,https://www.github.com/topics/twitter,"Twitterisanonlinenewsandsocialnetworkingservicewhereuserspostandinteractwithmessages,knownas“Tweets”."
+TypeScript,https://www.github.com/topics/typescript,TypeScriptisatypedsupersetofJavaScriptthatcompilestoplainJavaScript.
+Ubuntu,https://www.github.com/topics/ubuntu,UbuntuisaLinux-basedoperatingsystem.
+Unity,https://www.github.com/topics/unity,"Unityisagameengineusedtocreate2D/3Dvideogames,andsimulationsforcomputers,consoles,andmobiledevices."
+Unreal Engine,https://www.github.com/topics/unreal-engine,"UnrealEngineisusedtocreateawesomegames,andexperiencesforPC,mobile,console,VR,andAR."
+Vagrant,https://www.github.com/topics/vagrant,Vagrantisanopen-sourcesoftwareproductforbuildingandmaintainingportablevirtualsoftwaredevelopmentenvironments.
+Vim,https://www.github.com/topics/vim,Vimisaconsole-runtexteditorprogram.
+Virtual reality,https://www.github.com/topics/virtual-reality,Virtualrealityisanartificialenvironmentdisplayedthroughdigitalmeans.
+Vue.js,https://www.github.com/topics/vue,Vue.jsisaJavaScriptframeworkforbuildinginteractivewebapplications.
+Wagtail,https://www.github.com/topics/wagtail,WagtailisanopensourceCMSwritteninPythonandbuiltontheDjangowebframework.
+Web Components,https://www.github.com/topics/web-components,WebComponentsareasetofwebplatformAPIsdeveloperscanusetocreatecustomHTMLtags.
+Web app,https://www.github.com/topics/webapp,Awebapplicationisanycomputerprogramthatperformsaspecificfunctionbyusingawebbrowserasitsclient.
+Webpack,https://www.github.com/topics/webpack,Webpackisabundlerthattakesmoduleswithdependenciesandcreatesstaticassets.
+Windows,https://www.github.com/topics/windows,WindowsisMicrosoft'sGUI-basedoperatingsystem.
+WordPlate,https://www.github.com/topics/wordplate,WordPlateisamodernWordPressstackwhichsimplifiesWordPressdevelopment.
+WordPress,https://www.github.com/topics/wordpress,"WordPressisapopularcontentmanagementsystem,usedforwebsitesandblogs."
+Xamarin,https://www.github.com/topics/xamarin,XamarinisaplatformfordevelopingiOSandAndroidapplications.
+XML,https://www.github.com/topics/xml,XMLissubsetofSGML(StandardGeneralizedMarkupLanguage)usedtostoreandtransportdata.
+,,
